@@ -71,8 +71,9 @@ End-to-end ML system:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Arun03k&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arun03k&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun03k&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun03k&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
