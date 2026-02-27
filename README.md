@@ -80,7 +80,7 @@ End-to-end ML system:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add link)
+- 💼 LinkedIn: https://www.linkedin.com/in/arun-kumar-361238149/
 - 📧 Email: arunkumar03.de@gmail.com
 - 🌍 Location: Germany
 
