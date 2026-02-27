@@ -18,7 +18,7 @@
 
 Software engineer with **3+ years of production experience** delivering backend systems, REST APIs, and cloud deployments. Currently pursuing an **M.Sc. in Informatik (Data Science & ML)** at the University of Würzburg, Germany, deepening my expertise in applied machine learning.
 
-I specialise in bridging the gap between ML research and scalable production systems — from Django REST services and React frontends to PyTorch models with interpretability tooling.
+I specialise in bridging the gap between ML research and scalable production systems from Django REST services and React frontends to PyTorch models with interpretability tooling.
 
 - 🏢 **Currently:** Software Engineer @ NanoStruct GmbH, Würzburg
 - 🎓 **Studying:** M.Sc. Informatik (Data Science & ML), University of Würzburg
