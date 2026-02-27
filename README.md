@@ -72,9 +72,9 @@ End-to-end ML system:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun03k&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun03k&layout=compact&theme=default" height="150">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun03k&show_icons=true&hide_border=true&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun03k&layout=compact&hide_border=true" height="160">
+</p>>
 
 ---
 
